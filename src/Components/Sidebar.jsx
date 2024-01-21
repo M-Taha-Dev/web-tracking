@@ -11,7 +11,7 @@ import { Link } from 'react-router-dom';
 
 const Sidebar = () => {
   return (
-    <div className='flex  flex-col gap-2 h-screen bg-gray-200 p-2' style={{width: '288px'}}>
+    <div className='flex  flex-col gap-2 h-screen bg-gray-200 rounded-lg p-2' style={{width: '288px'}}>
 
         {/* Top text :kokoro font*/}
         <div className='p-2 '>
